@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Cosmos Explorer",
+  "description": "An interactive 3D solar system map with zoomed scaling and realistic textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
